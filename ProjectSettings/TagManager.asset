@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Monster
+  - Clickable
+  - Unit
+  - Knight
+  - BGMSlider
+  - SfxSlider
+  - Skill2Text
+  - Active
+  - LevelUI
+  - DiamondUI
+  - Skill1Text
+  - Skill4Text
+  - Skill3Text
+  - LevelUIInfo
+  - DiamondUIInfo
+  - HPUI
+  - AttackUI
+  - SpeedUI
+  - StarUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 95979979
+    locked: 0
+  - name: Deco
+    uniqueID: 1967644017
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Unit
+    uniqueID: 2425041015
+    locked: 0
+  - name: AttackEffect
+    uniqueID: 3603952103
+    locked: 0

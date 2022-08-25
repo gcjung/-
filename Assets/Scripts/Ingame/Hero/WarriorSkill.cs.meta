@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f813771bdeb32ac4c8986ed8461a446b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knight: {instanceID: 0}
+  - skill4: {instanceID: 0}
+  - skill3Effect: {instanceID: 0}
+  - skill4Effect: {instanceID: 0}
+  - skill2Effect: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - hm: {instanceID: 0}
+  - war: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
